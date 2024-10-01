@@ -23,7 +23,7 @@ Before you can play, make sure you have Python and Pygame installed on your syst
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/flappy-bird-python.git
+   git clone https://github.com/Mikesenju/Flappy-bird.git
    cd flappy-bird-python
    ```
 
